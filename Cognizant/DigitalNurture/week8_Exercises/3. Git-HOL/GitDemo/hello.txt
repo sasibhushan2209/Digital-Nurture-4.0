@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Branch: master content
+Branch: master content
+=======
+Branch: GitNewBranch content
+>>>>>>> 77bd601 (Edit in GitNewBranch)
